@@ -17,7 +17,7 @@ end
 Desenvolvedora apaixonada por construir o que acontece nos bastidores das aplicações. Meu foco é transformar regras de negócio complexas em APIs sólidas, microsserviços resilientes e sistemas que escalam sem dor de cabeça.
 
 - 🔭 **Atualmente:** Foco total em desenvolvimento backend, performance de banco de dados e arquitetura de sistemas distribuídos.
-- ⚙️ **No dia a dia:** Escrevendo código limpo com **Ruby on Rails** e **PHP**, orquestrando containers com **Docker** e gerenciando filas em segundo plano com **Sidekiq** e **Redis**.
+- ⚙️ **No dia a dia:** Escrevendo código limpo com **Ruby on Rails** e **Python**, orquestrando containers com **Docker** e gerenciando filas em segundo plano com **Sidekiq** e **Redis**.
 - 🛡️ **Qualidade & Segurança:** Adepta de boas práticas, análise estática e código testável (RuboCop, Brakeman, Semgrep).
 - ⚡ **Curiosidade:** Entre um deploy e outro, também me aventuro no mundo do e-commerce e produtos digitais.
 
