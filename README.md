@@ -5,7 +5,7 @@ class BarbaraTules < SoftwareEngineer
   def initialize
     @role     = "Backend Developer"
     @location = "Rio Grande do Sul, Brasil 🧉"
-    @stack    = %w[RubyOnRails PHP PostgreSQL Redis Sidekiq Docker]
+    @stack    = %w[RubyOnRails Python PostgreSQL Redis Sidekiq Docker]
     @focus    = ["Arquiteturas Escaláveis", "Microsserviços", "Processamento Assíncrono"]
   end
 
